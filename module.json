@@ -1,0 +1,17 @@
+{
+  "id": "GM-leviathan",
+  "title": "DnD Foundry tools",
+  "description": "Some scripts I use in my campaigns",
+  "authors": [
+    {
+      "name": "Famalis"
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10"
+  },
+  "scripts": ["scripts/main.js"]
+}
+
