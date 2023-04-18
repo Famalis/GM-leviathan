@@ -1,5 +1,6 @@
 {
   "id": "GM-leviathan",
+  "name": "gm-leviathan",
   "title": "DnD Foundry tools",
   "description": "Some scripts I use in my campaigns",
   "url": "https://github.com/Famalis/GM-leviathan",
@@ -19,4 +20,3 @@
   "minimumCoreVersion": "10",
   "compatibleCoreVersion": "10"
 }
-
