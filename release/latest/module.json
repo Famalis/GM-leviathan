@@ -2,9 +2,9 @@
   "id": "GM-leviathan",
   "title": "DnD Foundry tools",
   "description": "Some scripts I use in my campaigns",
-  "url": "https://github.com/theripper93/Levels",
-  "manifest": "https://github.com/theripper93/Levels/releases/latest/download/module.json",
-  "download": "https://github.com/Famalis/GM-leviathan/raw/master/release/latest/module.zip",
+  "url": "https://github.com/Famalis/GM-leviathan",
+  "manifest": "https://github.com/Famalis/GM-leviathan/releases/tag/v.0.0.2/module.json",
+  "download": "https://github.com/Famalis/GM-leviathan/releases/tag/v.0.0.2/module.zip",
   "authors": [
     {
       "name": "Famalis"
