@@ -1,7 +1,7 @@
 {
   "id": "GM-leviathan",
   "name": "gm-leviathan",
-  "title": "DnD Foundry tools",
+  "title": "Leviathan DnD Foundry tools",
   "description": "Some scripts I use in my campaigns",
   "url": "https://github.com/Famalis/GM-leviathan",
   "manifest": "https://github.com/Famalis/GM-leviathan/releases/download/latest/module.json",
@@ -12,7 +12,7 @@
       "email": "s.cosentino@gmx.com"
     }
   ],
-  "version": "1.0.0",
+  "version": "0.0.2",
   "compatibility": {
     "minimum": "9",
     "verified": "10"
