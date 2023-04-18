@@ -5,3 +5,4 @@ cp -r scripts module/scripts
 zip -r module.zip module 
 rm -r module
 mv module.zip release/latest/
+cp module.json release/latest/module.json
