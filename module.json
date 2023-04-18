@@ -4,8 +4,8 @@
   "title": "DnD Foundry tools",
   "description": "Some scripts I use in my campaigns",
   "url": "https://github.com/Famalis/GM-leviathan",
-  "manifest": "https://github.com/Famalis/GM-leviathan/releases/download/v0.0.3/module.json",
-  "download": "https://github.com/Famalis/GM-leviathan/releases/download/v0.0.3/module.zip",
+  "manifest": "https://github.com/Famalis/GM-leviathan/releases/download/latest/module.json",
+  "download": "https://github.com/Famalis/GM-leviathan/releases/download/latest/module.zip",
   "authors": [
     {
       "name": "Famalis"
@@ -20,3 +20,4 @@
   "minimumCoreVersion": "10",
   "compatibleCoreVersion": "10"
 }
+
